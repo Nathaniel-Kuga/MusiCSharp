@@ -32,8 +32,6 @@ Its got lotsa features:
     - [ ] pages, colors, etc.
 - [ ] Upload those ideas via C#
 - [ ] Win
- 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,8 +63,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jasper Smith - [Linkedin](https://www.linkedin.com/in/jasper-smith-813742196/)
-Nathaniel Kuga - [Linkedin](https://www.linkedin.com/in/nathaniel-kuga-8981a7a2/)
+* Jasper Smith - [Linkedin](https://www.linkedin.com/in/jasper-smith-813742196/)
+* Nathaniel Kuga - [Linkedin](https://www.linkedin.com/in/nathaniel-kuga-8981a7a2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
