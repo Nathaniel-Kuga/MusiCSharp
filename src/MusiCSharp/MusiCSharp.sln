@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusiCSharp", "MusiCSharp\MusiCSharp.csproj", "{7D1ACC37-97EE-47E8-8731-858152126488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusiCSharp_Tests", "MusiCSharp_Tests\MusiCSharp_Tests.csproj", "{C3E34D03-DC2A-4F93-BFE6-0170AEE2FEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D1ACC37-97EE-47E8-8731-858152126488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1ACC37-97EE-47E8-8731-858152126488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1ACC37-97EE-47E8-8731-858152126488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1ACC37-97EE-47E8-8731-858152126488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E34D03-DC2A-4F93-BFE6-0170AEE2FEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E34D03-DC2A-4F93-BFE6-0170AEE2FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E34D03-DC2A-4F93-BFE6-0170AEE2FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E34D03-DC2A-4F93-BFE6-0170AEE2FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
